@@ -1,0 +1,15 @@
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.AssemblyReference.cache
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfoInputs.cache
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.AssemblyInfo.cs
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CoreCompileInputs.cache
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.csproj.CopyComplete
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
