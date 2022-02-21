@@ -1,6 +1,5 @@
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
-C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\bin\Debug\net6.0\ref\NLayer.Core.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
@@ -10,3 +9,4 @@ C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Deb
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll

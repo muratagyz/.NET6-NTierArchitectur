@@ -1,6 +1,5 @@
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.deps.json
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.dll
-C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\ref\NLayer.Repository.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.pdb
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Core.pdb
@@ -13,3 +12,6 @@ C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\o
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\ref\NLayer.Repository.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\bin\Debug\net6.0\NLayer.Repository.runtimeconfig.json
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\refint\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Repository\obj\Debug\net6.0\NLayer.Repository.genruntimeconfig.cache
