@@ -65,3 +65,5 @@ C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\obj\Debu
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\Humanizer.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
