@@ -72,3 +72,5 @@ C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debu
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\Autofac.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.API\bin\Debug\net6.0\NLayer.Caching.pdb

@@ -10,3 +10,10 @@ C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\obj\
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
 C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.dll
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Service.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\bin\Debug\net6.0\NLayer.Repository.pdb
+C:\Users\mrtag\source\repos\.NET6-NTierArchitectur\NLayerApp\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CopyComplete
